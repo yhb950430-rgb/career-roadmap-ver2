@@ -1,3 +1,5 @@
+import React from 'react' 
+
 export default function PadletPanel() {
   return (
     <div style={{width:'100%', height:'600px', borderRadius:16, overflow:'hidden', boxShadow:'inset 0 0 0 1px #e5e7eb', background:'#f3f4f6'}}>

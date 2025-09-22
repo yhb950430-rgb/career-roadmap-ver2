@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import PadletPanel from './components/PadletPanel.jsx'
+import React, { useState } from 'react';
+import PadletPanel from './components/PadletPanel.jsx';
 
 export default function App() {
   const [show, setShow] = useState(true)
